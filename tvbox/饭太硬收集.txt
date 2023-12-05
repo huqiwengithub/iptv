@@ -1,7 +1,7 @@
 {
 	"urls": 
 	[
-	{"url": "http://饭太硬.top/tv","name": "饭太硬"},
+	{"url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/0826.json","name": "饭太硬"},
 	{"url": "http://xhww.fun:63/小米/DEMO.json","name": "小米"},
 	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json","name": "唐三"},
 	{"url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name": "FongMi"},
