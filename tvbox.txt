@@ -1,7 +1,7 @@
 { 
 	"storeHouse":
 	[
-	{"sourceName": "多多收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/多多收集.txt"},
+	{"sourceName": "liu673cn收集","sourceUrl": "hhttps://raw.gitmirror.com/liu673cn/box/main/dc.json"},
 	{"sourceName": "饭太硬收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/饭太硬收集.txt"},
 	{"sourceName": "肥猫收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/肥猫收集.txt"}
 	]
