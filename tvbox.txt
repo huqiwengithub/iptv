@@ -1,9 +1,9 @@
 { 
 	"storeHouse":
 	[
+{"sourceName": "七星影视","sourceUrl": "https://qixing.myhkw.com/DC.txt"},
 	{"sourceName": "liu673cn收集","sourceUrl": "https://raw.gitmirror.com/liu673cn/box/main/dc.txt"},
 	{"sourceName": "饭太硬收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/饭太硬收集.txt"},
-	{"sourceName": "肥猫收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/肥猫收集.txt"},
-{"sourceName": "七星影视","sourceUrl": "https://qixing.myhkw.com/DC.txt"}
+	{"sourceName": "肥猫收集","sourceUrl": "https://raw.gitmirror.com/huqiwengithub/iptv/main/tvbox/肥猫收集.txt"}
 	]
 }
